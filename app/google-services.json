@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "171397876130",
+    "project_id": "av2-filmes",
+    "storage_bucket": "av2-filmes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171397876130:android:8e0d4dea95f2924f190afb",
+        "android_client_info": {
+          "package_name": "com.senaicimatec.av2_filmes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171397876130-attsjvgn7qbvl1ao7dfe5344u3cktvpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.senaicimatec.av2_filmes",
+            "certificate_hash": "c52b9aaf467b9bb8f347c560a1b1aa0dbf556111"
+          }
+        },
+        {
+          "client_id": "171397876130-ajf1c9u8jn30m3u93etqgi00ahvkfglc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmZoGvgbm6UCIJHPj94ovHWlEie2dS4M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171397876130-ajf1c9u8jn30m3u93etqgi00ahvkfglc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
